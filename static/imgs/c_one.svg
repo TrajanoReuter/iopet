@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 182 182">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #efefef;
+      }
+
+      .cls-2 {
+        opacity: 0.04;
+      }
+
+      .cls-3, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        opacity: 0.27;
+      }
+
+      .cls-4 {
+        fill: #1e62ac;
+      }
+
+      .cls-5 {
+        opacity: 0.14;
+      }
+
+      .cls-6 {
+        filter: url(#Path_60);
+      }
+    </style>
+    <filter id="Path_60" x="47.695" y="33.1" width="67.305" height="120.938" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.271"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="img_1" transform="translate(-171 -2630)">
+    <g id="Group_56" data-name="Group 56" transform="translate(-40)">
+      <circle id="Ellipse_6" data-name="Ellipse 6" class="cls-1" cx="91" cy="91" r="91" transform="translate(211 2630)"/>
+      <path id="Subtraction_1" data-name="Subtraction 1" class="cls-2" d="M.049,94h0C.016,92.982,0,91.973,0,91A90.575,90.575,0,0,1,15.541,40.121,91.266,91.266,0,0,1,55.579,7.151a90.88,90.88,0,0,1,86.3,8.39,91.266,91.266,0,0,1,32.97,40.037A90.431,90.431,0,0,1,182,91c0,.985-.016,1.984-.048,2.969A91,91,0,0,0,.049,94Z" transform="translate(211 2630)"/>
+      <path id="Subtraction_2" data-name="Subtraction 2" class="cls-3" d="M.049,94h0C.016,92.982,0,91.973,0,91A90.575,90.575,0,0,1,15.541,40.121,91.266,91.266,0,0,1,55.579,7.151a90.88,90.88,0,0,1,86.3,8.39,91.266,91.266,0,0,1,32.97,40.037A90.431,90.431,0,0,1,182,91c0,.985-.016,1.984-.048,2.969A91,91,0,0,0,.049,94Z" transform="translate(393 2812) rotate(180)"/>
+    </g>
+    <g id="Group_60" data-name="Group 60" transform="translate(227.695 2669.1)">
+      <g id="Group_59" data-name="Group 59">
+        <g class="cls-6" transform="matrix(1, 0, 0, 1, -56.69, -39.1)">
+          <path id="Path_60-2" data-name="Path 60" class="cls-4" d="M0,21.453c2.823-1.129,5.834-2.635,9.033-4.14q4.516-2.258,9.033-5.081A95.7,95.7,0,0,0,26.534,6.4,81.26,81.26,0,0,0,33.873,0H49.3V102.938H27.287V28.792a62.377,62.377,0,0,1-9.974,5.457A83.752,83.752,0,0,1,6.587,38.39Z" transform="translate(56.69 39.1)"/>
+        </g>
+      </g>
+      <path id="Path_61" data-name="Path 61" class="cls-5" d="M34.062,0a59.608,59.608,0,0,1-7.339,6.4c-2.635,2.07-5.646,3.952-8.468,5.834-3.2,1.882-6.21,3.576-9.221,5.081-3.2,1.505-6.21,2.823-9.033,4.14L.941,23.9c2.07-.941,3.952-1.882,6.022-2.823A87.955,87.955,0,0,0,16.184,16a95.7,95.7,0,0,0,8.468-5.834,81.261,81.261,0,0,0,7.339-6.4H47.423v99.174H49.3V0Z"/>
+    </g>
+  </g>
+</svg>

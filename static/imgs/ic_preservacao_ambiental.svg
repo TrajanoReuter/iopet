@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 70">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2c9f1e;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="ic_preservacao_ambiental" transform="translate(-275 -1901)">
+    <circle id="Ellipse_3" data-name="Ellipse 3" class="cls-1" cx="35" cy="35" r="35" transform="translate(275 1901)"/>
+    <g id="Group_53" data-name="Group 53" transform="translate(295.003 1914)">
+      <g id="Group_52" data-name="Group 52" transform="translate(-0.003)">
+        <g id="Group_51" data-name="Group 51" transform="translate(0)">
+          <path id="Path_56" data-name="Path 56" class="cls-2" d="M36.136,18.4S-5.779,42.3,18.2,54.621c2.646-8.982,9.837-17.883,9.837-17.883s-1.738,11.281-6.6,19.273c25.288,9.463,14.7-37.611,14.7-37.611" transform="translate(-7.907 -13.481)"/>
+          <path id="Path_57" data-name="Path 57" class="cls-2" d="M19.485,9.115A106.635,106.635,0,0,0,13.872,0S-9.572,30.447,4.489,38.493c-10.746-9.2,5.186-22.588,15-29.378" transform="translate(0.003 0)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

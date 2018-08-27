@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 674 8">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #eee;
+      }
+
+      .cls-2 {
+        fill: #d6d6d6;
+      }
+    </style>
+  </defs>
+  <g id="line" transform="translate(-302 -2721)">
+    <rect id="Rectangle_51" data-name="Rectangle 51" class="cls-1" width="674" height="8" transform="translate(302 2721)"/>
+    <rect id="Rectangle_60" data-name="Rectangle 60" class="cls-2" width="674" height="2" transform="translate(302 2727)"/>
+  </g>
+</svg>
